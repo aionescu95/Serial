@@ -1,4 +1,4 @@
-int drive_gb = 100;
+int drive_gb = 5;
 int drive_mb;
 void setup()             // run once, when the sketch starts
 {
