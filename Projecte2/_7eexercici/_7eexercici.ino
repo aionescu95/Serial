@@ -1,5 +1,5 @@
 
-int test = 32767;
+long test = 32767;
 
 void setup()              // run once, when the sketch starts
 {
